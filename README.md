@@ -8,6 +8,10 @@
 </p>
 
 <p align="center">
+  <b>繁體中文</b> · <a href="README.en.md">English</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/tackcrypto1031/kaigong-agent/releases/latest"><b>⬇ 下載最新版本</b></a>
   ·
   <a href="#下載與安裝">安裝說明</a>
